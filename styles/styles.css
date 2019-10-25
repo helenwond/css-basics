@@ -1,0 +1,11 @@
+  /*Css Comment */
+  p {
+    color: red;
+  }
+  img {
+    width:50%
+  }
+  img {border-style : dotted  ;
+border-width : 5px;
+border-color: red;
+  }
